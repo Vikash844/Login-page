@@ -1,0 +1,40 @@
+.singupfrom{
+    background: #484c7f;
+    color: #fff;
+    width: 30vw;
+    height: 95%;
+    padding: 60px 1px 60px 0px;
+    text-align: center;
+    border-radius: 20px;
+    box-shadow: 0 8px 25px 0 #423fe1;
+}
+.frogotfrom{
+    background: #484c7f;
+    color: #fff;
+    width: 30vw;
+    height: 80%;
+    padding: 60px 1px 60px 0px;
+    text-align: center;
+    border-radius: 20px;
+    box-shadow: 0 8px 25px 0 #423fe1;
+}
+.filed {
+    margin: 1em 2em 0 2em;
+    font-weight: 600;
+}
+
+.filed label{
+    float: left;
+}
+
+.Text-area{
+    width: 100%;
+    padding:.3em ;
+    border: 3px solid rgb(0, 0, 0);
+    border-radius: 8px;
+}
+.singupfrom  h1{
+    font-size: 32px;
+    font-weight: 400;
+    margin-top: -40px;
+}
